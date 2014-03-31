@@ -17,7 +17,7 @@ echo "Remote apps"
 sudo apt-get install remmina
 
 echo "Dev packages"
-sudo apt-get install r-base ipython 
+sudo apt-get install r-base ipython ipython-notebook
 sudo apt-get install sublime-text
 sudo apt-get install pandoc
 
